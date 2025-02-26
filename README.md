@@ -1,5 +1,13 @@
 # Tech-Notes
 技术札记
-- Anki-Notes **高频考点记忆卡片**
-- Architecture-Diagrams **系统设计图**
-- Code-Specs **大厂代码规范总结**
+- algorithms **算法相关**
+- languages **编程语言相关**
+    - C++
+    - Java
+    - javascript
+    - python
+- projects **项目相关**
+    - AI4SC
+- tech-themes **技术主题分类**
+    - databases
+    - network-programming
